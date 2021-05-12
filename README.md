@@ -1,0 +1,1 @@
+# IS_HT3_AUTH
